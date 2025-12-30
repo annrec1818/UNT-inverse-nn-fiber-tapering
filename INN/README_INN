@@ -4,5 +4,6 @@ En la presente carpeta se encuentra:
   * archivo .keras que contiene la ecuación de relación de variables 
   * escaladores X e Y para desescalar los valores al momento de implementar la RNNI en la máquina. 
 
-En caso se realice una nueva base de datos, el modelo ya está programado para que al correro actualice estos archivos. 
+En caso se realice una nueva base de datos, el modelo ya está programado para que al correr actualice estos archivos. 
 Fijarse en el nombre de la base de datos dentro del código del modelo
+Subrir los archivos .keras, y los escaladores X e Y a la carpeta GUI para poder correr el modo automático.
