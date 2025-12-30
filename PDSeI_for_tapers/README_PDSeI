@@ -1,0 +1,13 @@
+En la presente carpeta se encuentra lo siguiente:
+  * Archivo .py de procesamieno de imágenes automatizado
+  * Fotos de tapers realizados por la máquina para la caracterización del sistema y validación del modelo RNI respectivamente.
+  * Resultados de procesamiento de las imágenes en los respectivos archivos .rar
+
+Nota: Debido a que se guardaron todas las imágenes de la caracterización de manera secuencial y sin omitir las fibras no estiradas, en la carpeta de "caracterizar" las imágenes se encuentran numeradas del 1 al 23 en lugar del 1 al 25 como indica el documento.
+Tener en cuenta que las siguientes imágenes: 
+  * "c10_gray" -> imagen 11 del documento
+  * "c11_gray" -> imagen 12 del documento
+  * "c12_gray" -> imagen 14 del documento
+  * "c15_gray" al "c23_gray"-> imagen 17 al 25 del documento
+
+Esto aplica también para los resultados.
