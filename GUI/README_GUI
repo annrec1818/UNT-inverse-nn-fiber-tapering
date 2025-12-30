@@ -1,0 +1,4 @@
+En la presente carpeta se encuentra la versión final de la GUI utilizada en el proyecto.
+Cabe resaltar que esta GUI puede ser cargada a una Raspberry Pi con pantalla para ser visualizada y controlar el sistema así como también puede funcionar nativamente en laptop o PC
+La condición principal es que el Arduino encargado de controlar los motores debe estar conectado puerto indicado en el archivo main.py o en su defecto, cambiar el puerto COM del .py para que coincida con el conectado con el Arduino.
+El arduino debe tener cargado el programa de control de motores que se encuentra en la carpeta control_fiber_tapering_machine
