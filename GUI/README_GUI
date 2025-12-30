@@ -5,3 +5,4 @@ El arduino debe tener cargado el programa de control de motores que se encuentra
 
 NOTA:
   * Actualizar las direcciones de los archivos .keras y escaladores en el archivo "modo_automatico.py" dependeindo de la carpeta en donde se vaya a alojar el proyecto
+  * Actualizar también la imágen en: modos/seleccion_modo.py
