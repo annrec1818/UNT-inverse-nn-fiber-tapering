@@ -1,0 +1,5 @@
+El presente repositorio contiene los archivos utilizados para el desarrollo del proyecto, entre estos se encuentran:
+* código para control de motores 
+* GUI -> interfaz gráfica
+* INN -> red neuronal y base de datos de entrenamiento
+* PDSeI -> Código de procesamiento de imágenes, imágenes a procesar y resultados de las pruebas de caracterización del sistema y validación del modelo 
